@@ -28,3 +28,13 @@ If we have O(n + n^2) then we can drop o(n) to make the final expression as O(n^
 
 > [!NOTE]
 > O(n!):-> we are adding a loop for every element present
+
+## Space complexity:->
+
+Heap is used to stored variables and Stack is used to keep the track of our function call
+Space complexity is caused by:->
+
+1. variables
+2. data structures
+3. function calls
+4. allocations
